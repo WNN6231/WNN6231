@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm WNN 👋
-
 [![Blog](https://img.shields.io/badge/Blog-wnnblog.top-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.wnnblog.top)
 [![Email](https://img.shields.io/badge/Email-wnn9039@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wnn9039@gmail.com)
 
@@ -9,7 +7,7 @@
 
 ---
 
-### 🛠 技术栈
+### 技术栈
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,7 +20,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -34,5 +32,15 @@
 <div align="center">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WNN6231&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+### 贡献记录
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/WNN6231/WNN6231/output/github-contribution-grid-snake-dark.svg)
 
 </div>
