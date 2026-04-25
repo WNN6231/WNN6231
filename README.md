@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm WNN 👋
-**网络空间安全 @ 杭州电子科技大学 · 2027届**
 
 [![Blog](https://img.shields.io/badge/Blog-wnnblog.top-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.wnnblog.top)
 [![Email](https://img.shields.io/badge/Email-wnn9039@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wnn9039@gmail.com)
