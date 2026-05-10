@@ -6,11 +6,9 @@
 [![Blog](https://img.shields.io/badge/Blog-wnnblog.top-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.wnnblog.top)
 [![Email](https://img.shields.io/badge/Email-wnn9039@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wnn9039@gmail.com)
 
-</div>
-
 ---
 
-### 🛠 技术栈
+🛠 **技术栈**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,26 +21,16 @@
 
 ---
 
-### 📊 GitHub Stats
+📊 **GitHub Stats**
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WNN6231&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WNN6231&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=WNN6231&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WNN6231&layout=compact&theme=dark&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WNN6231&theme=dark&hide_border=true" />
 
-</div>
-
 ---
 
-### 🐍 贡献记录
-
-<div align="center">
+🐍 **贡献记录**
 
 <img src="https://raw.githubusercontent.com/WNN6231/WNN6231/output/github-contribution-grid-snake-dark.svg" />
 
