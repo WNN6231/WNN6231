@@ -1,5 +1,8 @@
 <div align="center">
 
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Hi%2C+I'm+WNN+👋;Security+Developer;Go+%7C+Cloud+Native+%7C+DevSecOps)](https://git.io/typing-svg)
+
+
 [![Blog](https://img.shields.io/badge/Blog-wnnblog.top-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.wnnblog.top)
 [![Email](https://img.shields.io/badge/Email-wnn9039@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wnn9039@gmail.com)
 
@@ -7,7 +10,7 @@
 
 ---
 
-### 技术栈
+### 🛠 技术栈
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -20,27 +23,27 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WNN6231&show_icons=true&theme=dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WNN6231&layout=compact&theme=dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=WNN6231&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WNN6231&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WNN6231&theme=dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WNN6231&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
-### 贡献记录
+### 🐍 贡献记录
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/WNN6231/WNN6231/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/WNN6231/WNN6231/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
